@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://gitlab.com/BrittneyBannister/jeopardy/issues"
   },
-  "homepage": "https://gitlab.com/BrittneyBannister/jeopardy#readme"
+  "homepage": "https://gitlab.com/BrittneyBannister/jeopardy#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
 }
